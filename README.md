@@ -3,14 +3,21 @@
   Save as README.md in the repo: subbu-naidu/subbu-naidu (public)
   ============================================================ -->
 
+<!-- ========== PROFILE CARD ASSET ========== -->
+<div align="center">
+
+<img src="profile-card.svg" alt="Profile Card - Chennamsetty Venkata Subbaiah" width="900" height="452" />
+
+</div>
+
 <!-- ========== 1. HERO BANNER ========== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:8b5cf6&height=200&section=header&text=Venkata%20Subbaiah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Student%20%7C%20Aspiring%20Software%20Engineer&descAlignY=60&descSize=18" width="100%" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:8b5cf6&height=200&section=header&text=Venkata%20Subbaiah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontA[...]
 
 <!-- Animated typing text: edit lines= (separate with ;) -->
 <a href="https://github.com/subbu-naidu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Venkata+Subbaiah+👋;Software+Engineer+in+the+Making;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Data+Science+Student+%7C+Graduating+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Venkata+Subbaiah+🚀[...]
 </a>
 
 ### 🚀 Building Useful Software • Learning in Public • Solving Real Problems

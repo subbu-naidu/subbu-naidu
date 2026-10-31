@@ -225,7 +225,7 @@ User authentication, book catalog management, issue/return tracking and an admin
 <tr>
 <td width="50%" valign="top">
 
-### ❤️ [Heart Disease Prediction](https://github.com/subbu-naidu?tab=repositories&q=Heart)
+### ❤️ [ Disease Prediction](https://github.com/subbu-naidu?tab=repositories&q=Heart)
 **Machine learning risk predictor**
 
 Data preprocessing, analysis, model evaluation and optimization.
